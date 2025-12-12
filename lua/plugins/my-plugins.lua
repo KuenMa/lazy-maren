@@ -95,4 +95,5 @@ return {
       vim.g.copilot_no_tab_map = true
     end,
   },
+  { "preservim/nerdcommenter" },
 }
